@@ -1,0 +1,13 @@
+H:\Year 12 Computing\Remote-Learning-Solution\Remote-Learning-Solution\obj\Debug\Remote-Learning-Solution.vbprojResolveAssemblyReference.cache
+H:\Year 12 Computing\Remote-Learning-Solution\Remote-Learning-Solution\obj\Debug\Remote_Learning_Solution.Form1.resources
+H:\Year 12 Computing\Remote-Learning-Solution\Remote-Learning-Solution\obj\Debug\Remote_Learning_Solution.Resources.resources
+H:\Year 12 Computing\Remote-Learning-Solution\Remote-Learning-Solution\obj\Debug\Remote-Learning-Solution.vbproj.GenerateResource.Cache
+H:\Year 12 Computing\Remote-Learning-Solution\Remote-Learning-Solution\obj\Debug\Remote-Learning-Solution.vbproj.CoreCompileInputs.cache
+H:\Year 12 Computing\Remote-Learning-Solution\Remote-Learning-Solution\bin\Debug\Remote-Learning-Solution.exe.config
+H:\Year 12 Computing\Remote-Learning-Solution\Remote-Learning-Solution\bin\Debug\Remote-Learning-Solution.exe
+H:\Year 12 Computing\Remote-Learning-Solution\Remote-Learning-Solution\bin\Debug\Remote-Learning-Solution.pdb
+H:\Year 12 Computing\Remote-Learning-Solution\Remote-Learning-Solution\bin\Debug\Remote-Learning-Solution.xml
+H:\Year 12 Computing\Remote-Learning-Solution\Remote-Learning-Solution\obj\Debug\Remote_Learning_Solution.Form2.resources
+H:\Year 12 Computing\Remote-Learning-Solution\Remote-Learning-Solution\obj\Debug\Remote-Learning-Solution.exe
+H:\Year 12 Computing\Remote-Learning-Solution\Remote-Learning-Solution\obj\Debug\Remote-Learning-Solution.xml
+H:\Year 12 Computing\Remote-Learning-Solution\Remote-Learning-Solution\obj\Debug\Remote-Learning-Solution.pdb
